@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mini Paint</string>
+    <string name="canvasContentDescription">Mini paint is a simple line drawing app.
+    Drag your fingers to dear. Rotate the phone to clear.</string>
+</resources>
